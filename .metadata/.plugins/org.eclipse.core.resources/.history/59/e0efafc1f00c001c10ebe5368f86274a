@@ -1,0 +1,5 @@
+package com.paulorocha.workshopmongo.dto;
+
+public class UserDTO {
+
+}
