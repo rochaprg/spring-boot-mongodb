@@ -276,3 +276,45 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:40:30.716
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TikZHrWg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:41.729
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:41.729
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@556b07f[org.springframework.tooling.boot.ls:1.27.0.202108151936(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:41.730
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.457
+!MESSAGE Boot LS startup time from start to initialized: 1727ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.526
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wICwOHHZisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.527
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.527
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.528
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.528
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.528
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wICwOHHZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.531
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.534
+!MESSAGE buffering callback sts4.classpath.wICwOHHZ workshopmongo false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.534
+!MESSAGE executing callback sts4.classpath.wICwOHHZ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 16:41:43.805
+!MESSAGE executing callback sts4.classpath.wICwOHHZ SUCCESS [done]
