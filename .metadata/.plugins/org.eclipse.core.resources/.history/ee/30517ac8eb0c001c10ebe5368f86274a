@@ -1,0 +1,5 @@
+package com.paulorocha.workshopmongo.repository;
+
+public class UserRepository {
+
+}

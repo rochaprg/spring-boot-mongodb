@@ -1,0 +1,13 @@
+package com.paulorocha.workshopmongo.services;
+
+import org.springframework.stereotype.Service;
+
+import com.paulorocha.workshopmongo.repository.UserRepository;
+
+@Service
+public class UserService {
+	
+	
+	private UserRepository repository;
+
+}
