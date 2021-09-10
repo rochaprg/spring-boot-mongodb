@@ -1,5 +1,0 @@
-package com.paulorocha.workshopmongo.repository;
-
-public interface UserRepository {
-
-}

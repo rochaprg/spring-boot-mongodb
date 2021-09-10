@@ -1,7 +1,0 @@
-package com.paulorocha.workshopmongo.resources;
-
-
-@RestController
-public class UserResource {
-
-}
